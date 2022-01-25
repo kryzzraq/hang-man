@@ -7,6 +7,9 @@ El jugador tiene dos posibles formas de adivinar la palabra, clickando letra a l
 
 Los errores que se pueden cometer en la primera metodología de juego son 7. El usuario podrá contabilizar los fallos de manera visual mediante una imagen. En la otra metodología de juego sólo se tendrá una oportunidad de fallo. Si metes una palabra que no coincide con la palabra seleccionada por la máquina saltará automáticamente el fin del juego. Si aciertas la palabra saltará victoria.
 
+#### Diciembre 2020
+
+
 ![image](https://user-images.githubusercontent.com/73443795/151040007-fd09aa61-95ff-4031-bbdf-83ebd22917e2.png)
 
 ![image](https://user-images.githubusercontent.com/73443795/151040139-ddc03c0d-7e53-4e6e-88a8-55f354da1505.png)
